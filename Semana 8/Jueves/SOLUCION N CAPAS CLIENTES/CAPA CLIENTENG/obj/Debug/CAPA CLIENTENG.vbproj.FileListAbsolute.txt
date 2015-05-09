@@ -1,0 +1,12 @@
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\bin\Debug\CAPA CLIENTENG.dll
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\bin\Debug\CAPA CLIENTENG.pdb
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\bin\Debug\CAPA CLIENTENG.xml
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\obj\Debug\CAPA_CLIENTENG.Resources.resources
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\obj\Debug\CAPA CLIENTENG.vbproj.GenerateResource.Cache
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\obj\Debug\CAPA CLIENTENG.dll
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\obj\Debug\CAPA CLIENTENG.xml
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\obj\Debug\CAPA CLIENTENG.pdb
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\bin\Debug\CAPA DATAACCESS.dll
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\bin\Debug\CAPA DATAACCESS.pdb
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\bin\Debug\CAPA DATAACCESS.xml
+C:\Users\Cibertec\Desktop\Muñoz\SOLUCION N CAPAS CLIENTES\CAPA CLIENTENG\obj\Debug\CAPA CLIENTENG.vbprojResolveAssemblyReference.cache
