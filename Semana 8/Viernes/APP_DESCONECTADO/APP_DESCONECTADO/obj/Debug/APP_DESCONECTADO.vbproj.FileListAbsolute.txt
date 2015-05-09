@@ -1,1 +1,10 @@
 C:\Users\Cibertec\Desktop\Muñoz\Semana 8\Viernes\APP_DESCONECTADO\APP_DESCONECTADO\bin\Debug\APP_DESCONECTADO.exe.config
+C:\Users\Cibertec\Desktop\Muñoz\Semana 8\Viernes\APP_DESCONECTADO\APP_DESCONECTADO\bin\Debug\APP_DESCONECTADO.exe
+C:\Users\Cibertec\Desktop\Muñoz\Semana 8\Viernes\APP_DESCONECTADO\APP_DESCONECTADO\bin\Debug\APP_DESCONECTADO.pdb
+C:\Users\Cibertec\Desktop\Muñoz\Semana 8\Viernes\APP_DESCONECTADO\APP_DESCONECTADO\bin\Debug\APP_DESCONECTADO.xml
+C:\Users\Cibertec\Desktop\Muñoz\Semana 8\Viernes\APP_DESCONECTADO\APP_DESCONECTADO\obj\Debug\APP_DESCONECTADO.Form1.resources
+C:\Users\Cibertec\Desktop\Muñoz\Semana 8\Viernes\APP_DESCONECTADO\APP_DESCONECTADO\obj\Debug\APP_DESCONECTADO.Resources.resources
+C:\Users\Cibertec\Desktop\Muñoz\Semana 8\Viernes\APP_DESCONECTADO\APP_DESCONECTADO\obj\Debug\APP_DESCONECTADO.vbproj.GenerateResource.Cache
+C:\Users\Cibertec\Desktop\Muñoz\Semana 8\Viernes\APP_DESCONECTADO\APP_DESCONECTADO\obj\Debug\APP_DESCONECTADO.exe
+C:\Users\Cibertec\Desktop\Muñoz\Semana 8\Viernes\APP_DESCONECTADO\APP_DESCONECTADO\obj\Debug\APP_DESCONECTADO.xml
+C:\Users\Cibertec\Desktop\Muñoz\Semana 8\Viernes\APP_DESCONECTADO\APP_DESCONECTADO\obj\Debug\APP_DESCONECTADO.pdb
